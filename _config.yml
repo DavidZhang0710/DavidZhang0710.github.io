@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Huangyu Zhang/Personal Homepage"
+title                    : "Huangyu's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Huangyu Zhang"
 description              : &description "An undergraduate student from Xi'an Jiaotong Unversity"

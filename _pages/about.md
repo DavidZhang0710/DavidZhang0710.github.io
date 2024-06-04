@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,4 +18,4 @@ If you have any ideas interesting, no matter is it related to computer, just com
 
 You can find my CV here: [Huangyu's Curriculum Vitae](../files/Curriculum_Vitae.pdf).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233)
+[Email](mailto:zhanghuangyu0710@gmail.com) / [Github](https://github.com/DavidZhang0710)
