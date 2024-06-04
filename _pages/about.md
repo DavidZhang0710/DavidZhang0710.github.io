@@ -16,6 +16,6 @@ Currently, I'm work on my school final project about a system to evaluate the tr
 
 If you have any ideas interesting, no matter is it related to computer, just come to me.
 
-You can find my CV here: [Huangyu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Huangyu's Curriculum Vitae](../files/Curriculum_Vitae.pdf).
 
 [Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233)
