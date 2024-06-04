@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Huangyu Zhang"
+title                    : "Huangyu Zhang/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Huangyu Zhang"
-description              : &description "personal description"
+description              : &description "An undergraduate student from Xi'an Jiaotong Unversity"
 url                      : https://davidzhang0710.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "davidzhang0710/davidzhang0710.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Huangyu Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "An undergraduate student from Xi'an Jiaotong Unversity"
   location         : "China"
   employer         : "Xi'an Jiaotong University"
   uri              : # URL
