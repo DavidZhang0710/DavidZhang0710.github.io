@@ -11,35 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, University of Southern California, 2024-2026 (expected)
+* B.E. in Computer Science, Xi'an Jiaotong University, 2020-2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Bytedance, C++ Software Development Internship, 2023.06-2023.10
+  * Programmed in C++ to develop a module called MessageBus, which facilitated the handling of API call messages and asynchronous message dispatch, successfully reducing the API crash rate from 0.5% to 0.2%.
+  * Programmed in Python to develop a module to automatically generate header files in other programming languages based on the C++ header files.
+  * Programmed in C++ to develop a tool using Doxygen, which automatically generates API documentation from header files. The generated API documentation includes API definitions, descriptions, parameter types and ranges.
+  * Designed and developed new Java and Objective-C APIs for multi-streaming.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language
+  * Java, C, C++, Python, JavaScript, SQL, CSS, HTML
+* Software
+  * Linux, Git, Docker, Redis, Kafka, Maven, OpenCV, MyBatis
+* Frameworks/Tools
+  * Spring Boot, Flask, Cmake, PyTorch, Scikit-Learn, Tensorflow, AWS Lambda Linux, Node.js, Vue.js
 
 Publications
 ======
@@ -47,6 +37,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+You can find my CV in PDF version here: [Huangyu's Curriculum Vitae](../files/Curriculum_Vitae.pdf).
