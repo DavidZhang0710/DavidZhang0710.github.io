@@ -18,4 +18,4 @@ If you have any ideas interesting, no matter is it related to computer, just com
 
 You can find my CV here: [Huangyu's Curriculum Vitae](../files/Curriculum_Vitae.pdf).
 
-[Email](mailto:zhanghuangyu0710@gmail.com) / [Github](https://github.com/DavidZhang0710)
+[Email](mailto:zhanghuangyu0710@gmail.com) / [Github](https://github.com/DavidZhang0710) / [Wechat](../images/wechat.jpg) 
