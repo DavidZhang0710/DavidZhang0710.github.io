@@ -21,7 +21,7 @@ repository               : "davidzhang0710/davidzhang0710.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.jpg"
   name             : "Huangyu Zhang"
   pronouns         : # example: "she/her"  
   bio              : "An undergraduate student from Xi'an Jiaotong Unversity"
