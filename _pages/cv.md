@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+PDF version here: [Huangyu's Curriculum Vitae](../files/Curriculum_Vitae.pdf).
 
 Education
 ======
@@ -36,5 +37,3 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-You can find my CV in PDF version here: [Huangyu's Curriculum Vitae](../files/Curriculum_Vitae.pdf).
