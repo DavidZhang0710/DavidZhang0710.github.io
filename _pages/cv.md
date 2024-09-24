@@ -18,19 +18,18 @@ Education
 Work experience
 ======
 * Bytedance, C++ Software Development Internship, 2023.06-2023.10
-  * Programmed in C++ to develop a module called MessageBus, which facilitated the handling of API call messages and asynchronous message dispatch, successfully reducing the API crash rate from 0.5% to 0.2%.
-  * Programmed in Python to develop a module to automatically generate header files in other programming languages based on the C++ header files.
-  * Programmed in C++ to develop a tool using Doxygen, which automatically generates API documentation from header files. The generated API documentation includes API definitions, descriptions, parameter types and ranges.
-  * Designed and developed new Java and Objective-C APIs for multi-streaming.
+  * Designed a non-intrusive parameter serialization component based on C++ macros and Templates, and added pre-validation to ensure parameter integrity. Implemented auto-expanding serializing with only a 7KB increase in package size and decreased API crash rates by 0.2% through robust parameter validation
+  * Built a tool to automatically generate API documentation from annotated header files. Utilized Doxygen and RapidXML parser to parse definitions and comments from header files. Converted parsed information into a custom JSON format to support C++ overloading and multi-platform compatibility
+  * Developed a Message Bus module only based on C++ STL and multi-threading libraries, implemented synchronous and asynchronous sending methods, and involved queues to optimize and simplify the asynchronous sending method, reducing response time of multi-stream APIs by 6.9%
   
 Skills
 ======
 * Programming Language
-  * Java, C, C++, Python, JavaScript, SQL, CSS, HTML
+  * Java, C, C++, Python, SQL, JavaScript, CSS, HTML
 * Software
-  * Linux, Git, Docker, Redis, Kafka, Maven, OpenCV, MyBatis
+  * Linux, Git, Maven, Redis, Kafka, Docker, OpenCV, MyBatis
 * Frameworks/Tools
-  * Spring Boot, Flask, Cmake, PyTorch, Scikit-Learn, Tensorflow, AWS Lambda Linux, Node.js, Vue.js
+  * Spring Boot, Flask, Cmake, PyTorch, Scikit-Learn, Tensorflow, Node.js, Vue.js
 
 Publications
 ======
