@@ -25,11 +25,11 @@ Work experience
 Skills
 ======
 * Programming Language
-  * Java, C, C++, Python, SQL, JavaScript, CSS, HTML
-* Software
-  * Linux, Git, Maven, Redis, Kafka, Docker, OpenCV, MyBatis
-* Frameworks/Tools
-  * Spring Boot, Flask, Cmake, PyTorch, Scikit-Learn, Tensorflow, Node.js, Vue.js
+  * Java, C, C++, Python, SQL, JavaScript, Vue.js, CSS, HTML
+* Technology
+  * Spring & Spring Boot, Flask, Redis, Zookeeper, Kafka, RabbitMQ, Javassist, CMake, scikit-learn
+* Tools
+  * Git, Docker, Maven, Linux, AWS, Postman
 
 Publications
 ======
